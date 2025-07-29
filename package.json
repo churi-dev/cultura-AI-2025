@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/churi-dev/cultura-AI-2025#readme",
   "dependencies": {
+    "@supabase/supabase-js": "^2.52.1",
     "axios": "^1.11.0",
     "cors": "^2.8.5",
+    "dayjs": "^1.11.13",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
     "express-rate-limit": "^8.0.1",
